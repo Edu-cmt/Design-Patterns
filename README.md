@@ -18,7 +18,7 @@ Aqui podemos <strong>`Inserir`</strong> um cliente, <strong>`Consultar`</strong>
 ![image](https://github.com/user-attachments/assets/bbee6748-246c-4062-8f54-4e16a9e04334)
 
 ## :desktop_computer::keyboard: Tecnologias
-
+* Java
 * Spring Boot
 * Spring Data JPA
 * H2 Database
