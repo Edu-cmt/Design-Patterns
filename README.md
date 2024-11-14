@@ -2,7 +2,7 @@
 
 Nesse projeto foi excercitado alguns padrões de projetos como: Singleton, Strategy e Facade.
 
-<strong>Singleton:</strong> Presente nas injeções de dependencias, forncecendo a mesma instância de uma classe para toda a aplicação.\**
+<strong>Singleton:</strong> Presente nas injeções de dependencias, forncecendo a mesma instância de uma classe para toda a aplicação.<br>
 <strong>Strategy:</strong> Presente nas implementações de métodos determinados nas interfaces
 <strong>Facade:</strong> Presente nas abstrações de integrações com subsistemas, provendo uma interface mais simples.
 
