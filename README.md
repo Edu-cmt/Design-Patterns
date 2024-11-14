@@ -24,4 +24,6 @@ Aqui podemos <strong>`Inserir`</strong> um cliente, `Consultar` todos os cliente
 * H2 Database
 * OpenFeign
 
+## :paperclip: Referências
 
+Esse projeto foi desenvolvido através do conteúdo monistrado nas aulas de um bootcamp, da Digital Innovation One em parceria com a Claro, que se chama <strong>Java com SpringBoot.</strong>
