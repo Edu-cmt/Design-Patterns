@@ -9,7 +9,7 @@ Nesse projeto foi excercitado alguns padrões de projetos como: Singleton, Strat
 ## :page_with_curl: Resumo do Projeto
 
 Foi desenvolvida uma API Rest que fornece dados de um cliente como: Nome e Endereço. Seu Endereço completo é fornecido através da integração com uma outra API, conhecida
-como ViaCEP. Através dela, basta fornecermos o nosso CEP para preencher todos os dados de endereço do Cliente.
+como ViaCEP. Através dela, basta fornecermos o CEP do cliente para obter todos os dados de seu endereço.
 
 ## :hammer_and_wrench: Funcionalidades
 
