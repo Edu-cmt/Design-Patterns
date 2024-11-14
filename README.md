@@ -1,4 +1,4 @@
-# Padrões de Projeto
+# :books: Padrões de Projeto
 
 Nesse projeto foi excercitado alguns padrões de projetos como: Singleton, Strategy e Facade.
 
