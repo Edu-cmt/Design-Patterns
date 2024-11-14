@@ -13,7 +13,7 @@ como ViaCEP. Através dela, basta fornecermos o CEP do cliente para obter todos 
 
 ## :hammer_and_wrench: Funcionalidades
 
-Aqui podemos <strong>`Inserir`</strong> um cliente, `Consultar` todos os clientes, `Consultar um cliente ` pelo ID, `Atualizar` e `Deletar` um cliente pelo seu ID.
+Aqui podemos <strong>`Inserir`</strong> um cliente, <strong>`Consultar`</strong> todos os clientes, <strong>`Consultar um cliente `</strong> pelo ID, <strong>`Atualizar`</strong> e <strong>`Deletar`</strong> um cliente pelo seu ID.
 
 ![image](https://github.com/user-attachments/assets/bbee6748-246c-4062-8f54-4e16a9e04334)
 
