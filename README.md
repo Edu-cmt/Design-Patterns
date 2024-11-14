@@ -6,15 +6,22 @@ Nesse projeto foi excercitado alguns padrões de projetos como: Singleton, Strat
 <strong>Strategy:</strong> Presente nas implementações de métodos determinados nas interfaces.<br>
 <strong>Facade:</strong> Presente nas abstrações de integrações com subsistemas, provendo uma interface mais simples.
 
-## Resumo do Projeto
+## :page_with_curl: Resumo do Projeto
 
 Foi desenvolvida uma API Rest que fornece dados de um cliente como: Nome e Endereço. Seu Endereço completo é fornecido através da integração com uma outra API, conhecida
 como ViaCEP. Através dela, basta fornecermos o nosso CEP para preencher todos os dados de endereço do Cliente.
 
-## Funcionalidades
+## :hammer_and_wrench: Funcionalidades
 
 Aqui podemos <strong>`Inserir`</strong> um cliente, `Consultar` todos os clientes, `Consultar um cliente ` pelo ID, `Atualizar` e `Deletar` um cliente pelo seu ID.
 
 ![image](https://github.com/user-attachments/assets/bbee6748-246c-4062-8f54-4e16a9e04334)
+
+## :desktop_computer::keyboard: Tecnologias
+
+* Spring Boot
+* Spring Data JPA
+* H2 Database
+* OpenFeign
 
 
