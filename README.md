@@ -13,6 +13,8 @@ como ViaCEP. Através dela, basta fornecermos o nosso CEP para preencher todos o
 
 ## Funcionalidades
 
-Aqui podemos <strong>`Inserir`</strong> um cliente, `Consultar` todos os clientes, `Consultar um cliente ` pelo ID, `Atualizar` um cliente e `Deletar` um cliente pelo seu ID.
+Aqui podemos <strong>`Inserir`</strong> um cliente, `Consultar` todos os clientes, `Consultar um cliente ` pelo ID, `Atualizar` e `Deletar` um cliente pelo seu ID.
+
+![image](https://github.com/user-attachments/assets/bbee6748-246c-4062-8f54-4e16a9e04334)
 
 
